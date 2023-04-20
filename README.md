@@ -19,6 +19,17 @@
 
 - ⚡ Fun fact **Football**
 
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![Sylva's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sylvat160&theme=github-compact)](https://github.com/Sylvat160/github-readme-activity-graph)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![Sylva's github stats](https://github-readme-stats.vercel.app/api?username=Sylvat160&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sylvat160&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sylvat160"></img>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ttagnabou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ttagnabou" height="30" width="40" /></a>
