@@ -45,11 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylvat160&" alt="sylvat160" /></p>
 
-<!--   profile-green-animate 
-![](https://github.com/BEPb/BEPb/blob/main/profile-3d-contrib/profile-green-animate.svg)
--->
-<!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline -->
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
