@@ -1,4 +1,7 @@
-![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)
+
+<div align=center>
+ <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" alt="..."/>
+</div>
 <!-- [![MasterHead](https://www.themoontechnologies.com/images/banner-bg.gif)](https://www.themoontechnologies.com) -->
 <div align=center>
 <img src="https://github.com/Sylvat160/Sylvat160/blob/main/gifs/web3.gif" alt="" />
