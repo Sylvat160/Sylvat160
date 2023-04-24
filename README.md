@@ -1,4 +1,6 @@
-
+<div align=center>
+ <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" alt="..."/>
+</div>
 
 <!-- [![MasterHead](https://www.themoontechnologies.com/images/banner-bg.gif)](https://www.themoontechnologies.com) -->
 <div align=center>
@@ -49,7 +51,4 @@
 <!--   skyline -->
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 
-<div align=center>
- <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" alt="..."/>
-</div>
  
