@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 💬 Ask me about **Angular , Node , React , Solidity , Next**
+- 💬 Ask me about **Node , React , Next, Solidity, Hardhat**
 
 - 📫 How to reach me **sylvaintagnabou@gmail.com**
 
