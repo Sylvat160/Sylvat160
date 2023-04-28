@@ -22,7 +22,7 @@
 - 📫 How to reach me **sylvaintagnabou@gmail.com**
 
 - ⚡ Fun fact **Football**
-- 🔭 Visit my [Portefolio](https://portfolio-sylvat160.vercel.app/)
+- 🔭 Visit my [Portfolio](https://portfolio-sylvat160.vercel.app/)
 
 
 <!--   GitHub stats graph -->
