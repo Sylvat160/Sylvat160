@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Oracle]()
 
-- 🌱 I’m currently learning **Software Engineering at ALX and Blockchain**
+- 🌱 I’m currently learning **Software Engineering at ALX **
 
 - 💬 Ask me about **Node , React , Solidity, Hardhat**
 
