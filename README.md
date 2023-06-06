@@ -38,9 +38,10 @@
 - 🔭 Visit my [Portfolio](https://portfolio-sylvat160.vercel.app/)
 
 
-<!--   GitHub stats graph -->
+<!--   GitHub stats graph 
 ### 📈 GitHub Activity Graph:
 [![Sylva's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sylvat160&theme=github-compact)](https://github.com/Sylvat160/github-readme-activity-graph)
+-->
 
 
 
