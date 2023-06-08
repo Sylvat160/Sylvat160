@@ -1,5 +1,5 @@
 <div align=center>
- <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" alt="..."/>
+ <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" alt="welcome"/>
 </div>
 
 
