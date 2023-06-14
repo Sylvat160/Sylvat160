@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 💬 Ask me about **Node , React , Solidity, Hardhat**
+- 💬 Ask me about **.**
 
 - 📫 How to reach me **sylvaintagnabou@gmail.com**
 
