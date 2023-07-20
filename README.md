@@ -39,8 +39,6 @@
 [![Sylva's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sylvat160&theme=github-compact)](https://github.com/Sylvat160/github-readme-activity-graph)
 -->
 
-
-
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/ttagnabou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ttagnabou" height="30" width="40" /></a>
