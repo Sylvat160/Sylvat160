@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
-- 💬 Ask me about **.**
+- 💬 Ask me about **Web3, Blockchain, sm**
 
 - 📫 How to reach me **sylvaintagnabou@gmail.com**
 
