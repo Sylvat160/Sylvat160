@@ -24,6 +24,8 @@
 
 - 🌱 I’m currently learning **Software Engineering at ALX**
 
+- - 🌱 I’m currently an **Alchemy's Ambassador**
+
 - 💬 Ask me about **Web3, Blockchain, sm**
 
 - 📫 How to reach me **sylvaintagnabou@gmail.com**
