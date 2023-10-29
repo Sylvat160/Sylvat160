@@ -1,4 +1,4 @@
-<div align=center>
+y<div align=center>
  <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" alt="welcome_svg"/>
 </div>
 <div align=center>
@@ -26,7 +26,7 @@
 
 - - 🌱 I’m currently an **Alchemy's Ambassador**
 
-- 💬 Ask me about **Web3, Blockchain, sm**
+- 💬 Ask me about **Web3, Blockchain, smart contract**
 
 - 📫 How to reach me **sylvaintagnabou@gmail.com**
 
