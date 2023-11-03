@@ -1,4 +1,4 @@
-y<div align=center>
+<div align=center>
  <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" alt="welcome_svg"/>
 </div>
 <div align=center>
